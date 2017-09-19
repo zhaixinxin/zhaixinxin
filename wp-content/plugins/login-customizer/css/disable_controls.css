@@ -1,0 +1,27 @@
+.logincust_pro_text a{
+
+    color:#A00;
+}
+.logincust_pro_text{
+    text-align: center;
+    font-weight: bold;
+    background-color: #F5F5F5;
+    padding: 10px;
+    margin-top: 0px;
+    width: 94%;
+    padding: 0px;
+    padding-top: 3px;
+    font-size: 12px;
+    padding-left: 28px;
+    margin-left: -21px;
+    padding-right: 28px;
+    margin-top: -10px;
+}
+#accordion-section-logincust_security_section h3:hover,
+#accordion-section-logincust_security_section h3{
+    background-image: url("security.png") !important;
+    background-repeat: no-repeat!important;;
+    background-position: 85% !important;
+    background-size: 25% !important;;
+
+}

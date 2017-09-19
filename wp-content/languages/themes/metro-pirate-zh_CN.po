@@ -1,0 +1,28 @@
+# Translation of Themes - metro-pirate in Chinese (China)
+# This file is distributed under the same license as the Themes - metro-pirate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-06 09:20:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - metro-pirate\n"
+
+#. Description of the plugin/theme
+msgid "Metro pirate is a metro WordPress theme for blogging, with a minimalist, clean design. The theme is dominated by a white background with a colorful grid style. Metro pirate has a fully responsive layout, and comes with many useful customization options."
+msgstr "Metro pirate 是一个用于博客编辑的 metro WordPress主题，设计极简，页面干净。这个主题背景纯白，有着彩色格子。 Metro pirate还拥有自适应页面设计以及许多有用的个性化选项。"
+
+#. Theme Name of the plugin/theme
+msgid "metro-pirate"
+msgstr "metro-pirate"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"

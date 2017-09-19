@@ -1,0 +1,35 @@
+.logincust-success{
+  border: 2px solid #398f14
+}
+
+.appearance_page_logincust_options #wpcontent #wrap h3,
+.appearance_page_logincust_options #wpcontent #wrap h2,
+.appearance_page_logincust_options #wpcontent #wrap a,
+.appearance_page_logincust_options #wpcontent  #wrap {
+  color:#777;
+}
+#logincust-logo{
+  background:url("<?php echo LOGINCUST_FREE_URL; ?>/css/logo.png") ;
+  width: 123px;
+  height: 85px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  right: 13%;
+}
+.appearance_page_logincust_options #submit:hover{
+
+  background: #FF907A !important;
+  border-color: #FF9D89 !important;
+}
+.appearance_page_logincust_options #submit{
+  color:#fff !important;
+
+  background: #FF7F66 !important;
+  border-color: #FF5F3F !important;
+  box-shadow: 0px 1px 0px #FF9682 inset, 0px 1px 0px rgba(0, 0, 0, 0.15);
+  text-shadow: none;
+}
+.appearance_page_logincust_options #wpcontent {
+  background:#fff;
+}

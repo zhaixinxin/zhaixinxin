@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>主机开设成功！！！</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+<style>
+td{font-size:9pt;line-height:15pt}
+</style>
+<body bgcolor="#FFFFFF" text="#000000" background="http://www.myhostadmin.net/images/biz4.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="270" valign="top"><img src="http://www.myhostadmin.net/images/biz1.gif" width="270" height="220"><br>
+      <img src="http://www.myhostadmin.net/images/biz3.gif" width="75" height="217"><br>
+      <img src="http://www.myhostadmin.net/images/biz2.gif" width="270" height="31"> 
+    </td>
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="130" valign="bottom">&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.myhostadmin.net/images/biz5.gif" width="182" height="25"></td>
+        </tr>
+        <tr> 
+          <td valign="top"> 
+            <p><br>
+              上传文件注意事项：</p>
+            <blockquote> 
+              <p>FTP登陆后目录结构如下:<br>
+                <br>
+                根目录<br>
+                |- wwwroot 网站根目录,网页文件请上传到这个目录才能访问.<br>
+                |- logfiles 网站日志文件,系统自动产生,不占用您的空间.<br>
+                |- database Access 数据库文件可以存放在这个目录下,<br>
+                &nbsp;&nbsp;&nbsp; <br>
+                <font color="#FF0000">特别提示：首次使用时请根据您的网站代码情况进行环境设置，否则网站不能正常运行！<br>
+                1.若使用asp.net程序，请在控制面板中点“ASP.NET版本”设置您的程序版本：<br>
+                2.若使用PHP程序，请在控制面板中点“PHP版本” 设置您的程序版本，如shopex等使用zend加密的程序，请使用PHP 
+                5.2 <br>
+                3.若使用的是asp程序或asp.net中需要连接access的，请在控制面板中点“程序兼容模式”来设置运行模式，老版本的asp程序可能需要设置为32位模式才能正常运行。</font></p>
+            </blockquote>
+            </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+</table>
+</body>
+</html>

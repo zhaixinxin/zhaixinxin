@@ -1,0 +1,708 @@
+# Translation of Metro CreativeX in Chinese (China)
+# This file is distributed under the same license as the Metro CreativeX package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-05 13:22:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Metro CreativeX\n"
+
+#. Theme Name of the plugin/theme
+msgid "Metro CreativeX"
+msgstr "Metro CreativeX"
+
+#. Description of the plugin/theme
+msgid "Metro CreativeX is a free metro WordPress theme, super clean,colorful,minimal and with a fully responsive design. Coded with care in HTML5 &amp; CSS3, is easy to customize and well documented.<a href=\"https://themeisle.com/forums/forum/metrox/\">Official support forum</a> (https://themeisle.com/forums/forum/metrox/)"
+msgstr "Metro CreativeX是一个免费的metro WordPress主题，非常干净，色彩丰富，体积小且具有自适应网页设计。用HTML5 &amp编码; CSS3,易于个性化和文档化。<a href=\"https://themeisle.com/forums/forum/metrox/\">官方支持论坛</a> (https://themeisle.com/forums/forum/metrox/)"
+
+#: inc/customizer.php:81
+msgid "Choose the font that suits your page.<br/>Font picker is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
+msgstr "选择适合您的页面的字体。<br/>Font picker下载于<a href=\"%s\" target=\"_blank\">Metro CustomizR</a>。"
+
+#: inc/customizer.php:94
+msgid "Change the sidebar position.<br/>Sidebar position is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
+msgstr "改变工具栏位置。<br/>工具栏位置可获得于 <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>。"
+
+#: inc/customizer.php:91
+msgid "Sidebar position"
+msgstr "工具栏位置"
+
+#: inc/customizer.php:110
+msgid "Add new social icon"
+msgstr "添加新的社交图标"
+
+#: inc/customizer.php:113
+msgid "More icons?<br/>Icon repeater is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
+msgstr "需要更多图标？<br/>Icon repeater可获得于 <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>。"
+
+#: inc/customizer.php:139
+msgid "Change the color scheme"
+msgstr "更改配色方案"
+
+#: inc/customizer.php:142
+msgid "Change all colors with just two clicks.<br/>Pallete picker is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
+msgstr "只需点击两次，就可更换所有颜色。<br/>Pallete picker可获得于<a href=\"%s\" target=\"_blank\">Metro CustomizR</a>。"
+
+#: inc/customizer.php:78
+msgid "Font"
+msgstr "字体"
+
+#: inc/customizer.php:68
+msgid "General"
+msgstr "常规"
+
+#: class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在升级 %1$s 插件（%2$d/%3$d）"
+
+#: functions.php:521
+msgid "Fonts"
+msgstr "字体"
+
+#: functions.php:486
+msgid "Get unlimited customization possibilities"
+msgstr "获得个性化的无限可能"
+
+#: functions.php:487
+msgid "Fonts, colors, layout, everything is customizable. Super easy, super fast!"
+msgstr "字体，配色，布局，一切都可以个性化。非常简单，非常迅速！"
+
+#: functions.php:488
+msgid "Get Metro CustomizR now!"
+msgstr "获取Metro CustomizR，就是现在！"
+
+#: functions.php:493
+msgid "What You Will Get"
+msgstr "您将会获得的东西"
+
+#: functions.php:497
+msgid "Metro CustomizR is an addon plugin for Metro CreativeX that allows you to customize your theme the way you want. No more child themes or support needed. Just install it and you're ready to customize your website. Easy peasy!"
+msgstr "Metro CustomizR是一个为 Metro CreativeX 制作的插件，可以帮助您按照您想要的方式个性化您的主题。不需要其他子主题或支持件。只需安装它，您就可以准备开始个性化您的网站了。超级简单！"
+
+#: functions.php:504
+msgid "Palette picker"
+msgstr "Palette picker"
+
+#: functions.php:505
+msgid "Change your page colors in just a few clicks with our palette picker control."
+msgstr "使用我们的Palette picker，您只需点击几次就可以改变网页配色。"
+
+#: functions.php:516
+msgid "Website layout"
+msgstr "网页布局"
+
+#: functions.php:517
+msgid "With just one click you can change the sidebar position."
+msgstr "您可一键更改您的工具栏位置。"
+
+#: functions.php:522
+msgid "Choose from over 100 fonts to style your page."
+msgstr "从一百多种字体中选择适合您网页的字体。"
+
+#: functions.php:509
+msgid "Individual post color"
+msgstr "个人后景色"
+
+#: functions.php:510
+msgid "No more child theme required.Customize each post background color."
+msgstr "不需要其他子主题。自定义每一篇文章的背景颜色。"
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "激活%2$s"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "来自该插件制作者的升级信息"
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "未选中插件安装。无动作进行。"
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "未选中插件更新。无动作进行。"
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "未选中插件激活。无动作进行。"
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "当前无可更新插件。"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "版本"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "激活<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "已安装版本："
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "最低需要版本："
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "可获得版本："
+
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "无插件安装、更新或激活。<a href=\"%1$s\">Return to the Dashboard</a>"
+
+#: class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "安装%2$s"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可供更新 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "更新推荐"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "无可获得更新"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "活跃"
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "抱歉，您不具备更新该插件%1$s的许可。"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "抱歉，您不具备激活该插件%1$s的许可。"
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "插件未激活。这个主题需要更高版本的%s。请更新插件。"
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系网站管理员寻求帮助。"
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "必需更新"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "设置parent_slug配置变量替换。"
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "外部源"
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "请联系该插件提供者，请他们根据WordPress指导打包插件。"
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "远程插件安装包中含有多个文件，这些文件不在一个文件夹中。"
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "该插件需要更新，以便与您的主题相兼容。"
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "无动作进行。插件%1$s已激活。"
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "这里有一个可获得更新：%1$s"
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "抱歉，您不具备安装该插件%1$s的许可。"
+
+#: class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "远程插件安装包中不包含所需slug文件，重命名无效。"
+
+#: tag.php:9
+msgid "Tag Archives: %s"
+msgstr "标签归档：%s"
+
+#: single.php:28
+msgid "Edit post"
+msgstr "编辑文章"
+
+#: page.php:18
+msgid "Edit page"
+msgstr "编辑页面"
+
+#: searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#: search.php:3
+msgid "Search Results for: "
+msgstr "搜索结果："
+
+#: index.php:13
+msgid "404 - not found"
+msgstr "404 - not found"
+
+#: inc/customizer.php:33
+msgid "ThemeIsle theme notes"
+msgstr "ThemeIsle主题注释"
+
+#: inc/customizer.php:34
+msgid ""
+"Thank you for being part of this! We've spent almost 6 months building ThemeIsle without really knowing if anyone will ever use a theme or not, so we're very grateful that you've decided to work with us. Wanna <a href='http://themeisle.com/contact/' target='_blank'>say hi</a>?\n"
+"\t\t<br/><br/><a href='http://themeisle.com/demo/?theme=MetroX' target='_blank'>View Theme Demo</a> | <a href='https://themeisle.com/forums/forum/metrox/' target='_blank'>Get theme support</a>"
+msgstr ""
+"感谢您成为我们中的一员！我们已花费超过六个月的时间搭建ThemeIsle，尽管我们并不知道是否会有人使用这个主题。所以我们非常感激您愿意与我们一同工作。需要<a href='http://themeisle.com/contact/' target='_blank'>say hi</a>?\n"
+"→\t→\t<br/><br/><a href='http://themeisle.com/demo/?theme=MetroX' target='_blank'>View Theme Demo</a> | <a href='https://themeisle.com/forums/forum/metrox/' target='_blank'>获取该主题支持</a>"
+
+#: inc/customizer.php:100
+msgid "Socials"
+msgstr "社交"
+
+#: inc/customizer.php:119
+msgid "Facebook link"
+msgstr "Facebook链接"
+
+#: inc/customizer.php:127
+msgid "Twitter link"
+msgstr "Twitter链接"
+
+#: inc/customizer.php:155
+msgid "Texts color"
+msgstr "文本颜色"
+
+#: inc/customizer.php:171
+msgid "Links color"
+msgstr "链接颜色"
+
+#: inc/customizer.php:187
+msgid "Links color - hover"
+msgstr "链接颜色 - 悬停"
+
+#: inc/customizer.php:203
+msgid "Navigation menu color"
+msgstr "导航菜单颜色"
+
+#: inc/customizer.php:219
+msgid "Navigation menu color - hover"
+msgstr "导航菜单颜色 - 悬停"
+
+#: inc/customizer.php:235
+msgid "Sidebar title color"
+msgstr "工具栏标题颜色"
+
+#: functions.php:436
+msgid "Latest articles"
+msgstr "最新文章"
+
+#: inc/customizer.php:49 inc/customizer.php:59
+msgid "Logo"
+msgstr "标识"
+
+#: inc/customizer.php:51
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "上传标识去替换顶端的默认网站名和描述。"
+
+#: header.php:83
+msgid "Menu"
+msgstr "菜单"
+
+#: functions.php:303
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:301
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:299
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#. translators: 1: date, 2: time
+#: functions.php:294
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:274
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: functions.php:274
+msgid "Pingback:"
+msgstr "Pingback 引用通告："
+
+#: functions.php:239
+msgid "All plugins installed and activated successfully. %s"
+msgstr "所有插件均已成功安装并激活。%s"
+
+#: class-tgm-plugin-activation.php:336 functions.php:213
+msgid "Something went wrong with the plugin API."
+msgstr "插件API发生错误。"
+
+#: functions.php:148
+msgid "Newer posts"
+msgstr "较新文章"
+
+#: functions.php:145
+msgid "Older posts"
+msgstr "较旧的文章"
+
+#: functions.php:91
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: functions.php:19
+msgid "Header menu"
+msgstr "顶部菜单"
+
+#: functions.php:60
+msgid "Left sidebar"
+msgstr "边栏在左侧"
+
+#: footer.php:7
+msgid "Powered by <a href=\"%s\">WordPress</a>"
+msgstr "由<a href=\"%s\">WordPress</a>提供"
+
+#: footer.php:8
+msgid "Theme by <a rel=\"nofollow\" target=\"_blank\" href=\"%s\">ThemeIsle</a>"
+msgstr "该主题来自 <a rel=\"nofollow\" target=\"_blank\" href=\"%s\">ThemeIsle</a>"
+
+#: content-none.php:13
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-none.php:11
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 →"
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr "← 早期评论"
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:21
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%s个想法"
+
+#: class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "%1$s安装失败。"
+
+#: class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s安装成功。"
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "所有安装均已完成。"
+
+#: class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件 %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活均已完成。"
+
+#: class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装 %1$s时出现故障 ：<strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装和激活插件%1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装过程即将开始。这个过程可能会持续一段时间，所以请您保持耐心。"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "隐藏详情"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "显示详情"
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装和激活过程即将开始。这个过程可能会持续一段时间，请保持耐心。"
+
+#: class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "安装并激活%1$s成功。"
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "当前无可激活插件。"
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "当前无可安装插件。"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "状态"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "类型"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "源"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "插件"
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "激活"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "安装"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "推荐"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "未安装"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "必填"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress 库"
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "返回主控页面"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "预包装"
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件已激活成功："
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件均已成功安装并激活。%1$s"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "关闭该通知"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "返回主控页面"
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+#: functions.php:237
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#: class-tgm-plugin-activation.php:397 functions.php:235
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需插件的安装页面。"
+
+#: class-tgm-plugin-activation.php:352 functions.php:227
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新到最新的版本，以确保与这一主题的最大兼容性： %1$s。"
+
+#: class-tgm-plugin-activation.php:382 functions.php:231
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: class-tgm-plugin-activation.php:392 functions.php:233
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#: functions.php:229
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "抱歉，您不具备更新该插件 %s 的许可。请联系网站管理员帮助您更新该插件。"
+
+#: class-tgm-plugin-activation.php:367 functions.php:221
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下必需的插件是当前处于未激活状态： %1$s。"
+
+#: class-tgm-plugin-activation.php:372 functions.php:223
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐插件是当前处于未激活状态： %1$s。"
+
+#: functions.php:225
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "抱歉，您不具备激活该插件%s 的许可。请联系网站管理员帮助您激活该插件。"
+
+#: functions.php:219
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "抱歉，您不具备安装该插件%s的许可。请联系网站管理员帮助您安装该插件。"
+
+#: class-tgm-plugin-activation.php:337 functions.php:215
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "这一主题需要以下插件： %1$s。"
+
+#: class-tgm-plugin-activation.php:342 functions.php:217
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "这个主题推荐以下插件：%1$s"
+
+#: class-tgm-plugin-activation.php:335 functions.php:211
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: class-tgm-plugin-activation.php:334 functions.php:209
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: class-tgm-plugin-activation.php:333 functions.php:207
+msgid "Install Required Plugins"
+msgstr "安装必需插件"
+
+#: functions.php:572
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: functions.php:572
+msgid "Yearly Archives: %s"
+msgstr "每年的档案：%s"
+
+#: functions.php:570
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: functions.php:570
+msgid "Monthly Archives: %s"
+msgstr "每月的档案：%s"
+
+#: functions.php:568
+msgid "Daily Archives: %s"
+msgstr "每天的档案：%s"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/metrox/"
+msgstr "https://themeisle.com/themes/metrox/"
+
+#. Author of the plugin/theme
+msgid "themeisle"
+msgstr "themeisle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"

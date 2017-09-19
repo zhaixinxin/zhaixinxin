@@ -1,0 +1,324 @@
+
+/*
+ Theme Name:   metro-pirate
+ Description: Metro pirate is a metro WordPress theme for blogging, with a minimalist, clean design. The theme is dominated by a white background with a colorful grid style. Metro pirate has a fully responsive layout, and comes with many useful customization options.
+ Author:       Themeisle
+ Author URI:   https://themeisle.com
+ Template:     metro-creativex
+ Version:      1.0.4
+ License:      GNU General Public License version 2
+ License URI:  license.txt
+ Text Domain:  metro-pirate
+ Tags:         Featured Images, One Column, Responsive Layout, Three Columns, Translation Ready, Two Columns, Left Sidebar, Theme Options, Fluid Layout, Post Formats
+*/
+
+@import url(//fonts.googleapis.com/css?family=Roboto:400,500,700,300,400italic,500italic,300italic);
+
+/* ================================
+	HEADER
+ ================================ */
+#topside {
+    width: 71%;
+    min-height: 16.5rem;
+    padding-top: 15rem;
+    float: left;
+    margin-left: 4%;
+    font-family: "Source Sans Pro",sans-serif;
+}
+
+#topside .pages ul a {
+    line-height: 4.6rem;
+    color: #6C6C6C !important;
+    font-size: 1.4rem;
+    font-weight: 300;
+    display: block;
+    padding: 0px 15px;
+    width: 100%;
+    text-transform: uppercase;
+}
+
+
+
+/* ================================
+	GENERAL
+================================ */
+
+.bg-stuff {
+    background: #2991d6 none repeat scroll 0% 0% !important;
+}
+
+.bg-code {
+    background: #DBDBDB none repeat scroll 0% 0% !important;
+}    
+
+.bg-responsive {
+    background: #a1c627 none repeat scroll 0% 0% !important;
+}
+
+.bg-wordpress {
+    background: #2991d6 none repeat scroll 0% 0% !important;
+}
+
+.bg-web {
+    background: #a1c627 none repeat scroll 0% 0% !important;
+}
+
+.bg-design {
+    background: #EC6B25 none repeat scroll 0% 0% !important;
+}
+
+
+#content article .post_content a {
+    display: block;
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+#content {
+    color: #2991d6 !important;
+}
+
+.color-code:hover, .color_nor-code {
+    color: #a3cc54 !important;
+}
+
+#topside h1 {
+    font-size: 3rem;
+    font-weight: 300;
+    color: #5C5C5C !important;
+    line-height: 5rem;
+    padding-top: 6rem;
+}
+
+#content article:hover, .sticky {
+  box-shadow: 0px 7px 0px 0px rgba(217,217,217,1) !important;
+}
+
+#content article .post_icon {
+  width: 23%;
+  height: 9rem;
+  background-repeat: no-repeat;
+  background-position: center 5px;
+  float: left;
+  overflow: hidden;
+}
+#content article .post_content {
+  width: 69%;
+  height: auto;
+  float: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+  color: #fff !important;
+  margin-bottom: 2rem;
+ }
+
+.color-code {
+    color: #5C5C5C !important;
+}
+
+body {
+    background: url("images/subtle_dots.png");
+}
+
+#logo {
+	color:#6C6C6C !important;
+}
+
+#topside .pages {
+    width: 66.5%;
+    height: 4.6rem;
+    border-bottom: 1px solid #DBDBDB;
+    float: left;
+    margin-top: 1px;
+}
+
+#topside .pages li a:hover {
+    color: #535353 !important;
+}
+
+header nav a, .openmenuresp {
+    width: 100%;
+    height: 5rem;
+    line-height: 5rem;
+    font-size: 1.7rem;
+    display: block;
+    border-top: 1px solid #DBDBDB;
+    border-bottom: none;
+    overflow: hidden;
+}
+
+header nav {
+  border: none;
+  font-family: "Roboto";
+
+}
+
+#content article {
+    width: 29%;
+    float: left;
+    margin: 0px 4% 4% 0px;
+    word-wrap: break-word;
+    padding: 2rem 0px 0px;    
+    border-radius: 3px;
+}
+
+#content p {
+    margin-bottom: 2rem;
+    color: #8C8C8D !important;
+    font-family: "Open Sans",sans-serif;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    word-wrap: break-word;
+    font-family: "Roboto" !important;
+}
+
+.openmenuresp {
+  border: none;
+}
+
+#searchform {
+    width: 29%;
+    height: 4.6rem;
+    border: 1px solid #DBDBDB;
+    float: left;
+}
+
+#searchform .searchtext {
+    width: 77%;
+    height: 4.6rem;
+    float: left;
+    padding: 0px 4%;
+    line-height: 4.6rem;
+    color: #444 !important;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.insidepost_date {
+    width: 92%;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #A8A8A8 !important;
+    margin: 0px 0px 0px 4%;
+    border-bottom: 1px solid #A1A1A1;
+    display: block;
+    min-height: 4.5rem;
+    line-height: 3rem;
+}
+
+#respond input, #respond textarea {
+    padding: 1rem;
+    border: 1px solid #BFBFBF;
+    background: transparent none repeat scroll 0% 0%;
+    width: 400px;
+    margin-bottom: 2rem;
+    color: #FFF;
+}
+
+#searchform .searchbutton {
+    width: 15%;
+    height: 4.6rem;
+    background: rgba(0, 0, 0, 0.5) url("images/searchicon.png") no-repeat scroll center center;
+}
+
+header nav a .read span, #searchform .searchbutton:hover {
+    opacity: 0.8;
+}
+#searc
+
+.nav-previous a:hover, .nav-next a:hover {
+    color: #F2F2F2;
+}
+
+.insidepost_date {
+    width: 92%;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #FFF ;
+    margin: 0px 0px 0px 4%;
+    border-bottom: 1px solid #A1A1A1;
+    display: block;
+    min-height: 4.5rem;
+    line-height: 3rem;
+}
+
+#respond {
+    float: left;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    color: #323232 !important;
+}
+
+.post strong {
+    color: rgb(170, 170, 170) !important;
+}
+
+.navigation{
+  background: #feffff; /* Old browsers */
+  background: -moz-linear-gradient(top, #feffff 0%, #dbdbdb 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#feffff), color-stop(100%,#dbdbdb)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #feffff 0%,#dbdbdb 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #feffff 0%,#dbdbdb 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #feffff 0%,#dbdbdb 100%); /* IE10+ */
+  background: linear-gradient(to bottom, #feffff 0%,#dbdbdb 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#dbdbdb',GradientType=0 ); /* IE6-9 */
+  border: 1px solid #C3C3C3;
+}
+
+.tags a {
+  margin-right: 4px;
+  border: 1px solid rgba(5, 5, 5, 0.1);
+  padding: 4px 10px;
+  border-radius: 3px;
+  background: #2991D6 none repeat scroll 0% 0%;
+  color: white !important;
+}
+
+.post .post_img {
+    max-width: 36rem;
+    height: auto;
+    float: left;
+    margin: 0px 2rem 2rem 0px;
+}
+
+
+
+/* ================================
+	FOOTER
+================================ */
+
+footer {
+    width: 92%;
+    margin-left: 4%;
+    height: 5rem;
+    line-height: 5rem;
+    color: #5E5B53 !important;
+    border-top: 1px solid #BDBDBD;
+    font-weight: 300;
+    font-size: 1.4rem;
+}   
+
+/* ================================
+	SIDEBAR
+================================ */
+.left-sidebar, .left-sidebar a, .left-sidebar .widget_search input[type="text"], .left-sidebar p, .left-sidebar select {
+	color: #6C6C6C !important;
+}
+.left-sidebar select {
+	background: none !important;
+}
+.left-sidebar li {
+	border-top: none !important;
+}
+.bg-code {
+	background: #2991d6 none repeat scroll 0% 0% !important;
+}
+.left-sidebar .widget-title {
+	font-weight: bold !important;
+	color: #2991d6 !important;
+}
+.left-sidebar a:hover {
+	color:#2991d6 !important;
+}

@@ -1,0 +1,284 @@
+/**
+ * demo-importer.scss
+ * General ThemeGrill Demo Importer admin styles.
+ */
+
+/**
+ * Styling begins
+ */
+.appearance_page_demo-importer {
+	.demo-importer {
+		h1 {
+			margin-bottom: 15px;
+		}
+
+		.search-form {
+			display: inline;
+		}
+
+		.wp-filter-search {
+			position: relative;
+			top: -2px;
+			left: 20px;
+			margin: 0;
+			width: 280px;
+			font-size: 16px;
+			font-weight: 300;
+			line-height: 1.5;
+		}
+	}
+
+	.demo-installer {
+		.wp-filter {
+			padding: 0 20px;
+
+			.filter-links li > a:focus {
+				box-shadow: none;
+			}
+		}
+
+		.welcome-panel {
+			margin: 0;
+			background: #e9eff3;
+			border: 10px solid #fff;
+			box-shadow: none;
+
+			.welcome-panel-content {
+				width: 45%;
+				float: left;
+
+				.welcome-panel-column {
+					width: 100%;
+
+					ul {
+						padding-left: 10px;
+					}
+				}
+			}
+
+			.welcome-panel-iframe-video {
+				float: right;
+				width: 50%;
+
+				.welcome-panel-iframe-video-inner {
+					position: relative;
+					height: 0;
+					margin: 0 10px 23px;
+					padding-bottom: 56.25%; /* 16:9 */
+					border: 5px solid #dadada;
+
+					iframe {
+						position: absolute;
+						top: 0;
+						left: 0;
+						width: 100%;
+						height: 100%;
+					}
+				}
+			}
+		}
+
+		.premium-ribbon {
+			position: absolute;
+			right: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+
+			span {
+				color: #fff;
+				display: block;
+				text-transform: uppercase;
+				border: 1px solid #069c64;
+				background-color: #24b37e;
+				box-shadow: 0 0 4px rgba( 255, 255, 255, 0.5 ) inset, 0 1px 3px rgba( 0, 0, 0, 0.3 );
+				font-size: 15px;
+				font-weight: 700;
+				text-align: center;
+				padding: 5px 30px;
+				transform: rotate(45deg);
+				position: absolute;
+				top: 6px;
+				right: -30px;
+			}
+		}
+	}
+}
+
+table.plugins-list-table {
+	margin-bottom: 1em;
+
+	.plugin-status {
+		text-align: center;
+
+		span {
+			width: 20px;
+			height: 20px;
+			visibility: hidden;
+			vertical-align: top;
+			display: inline-block;
+
+			&::before {
+				visibility: visible;
+				display: inline-block;
+				font: normal 20px/1 'dashicons';
+				transition: color 0.1s ease-in 0;
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+		}
+
+		.active {
+			&::before {
+				color: #7ad03a;
+				content: '\f147';
+			}
+		}
+
+		.install-now,
+		.activate-now {
+			&::before {
+				color: #a00;
+				content: '\f153';
+			}
+		}
+
+		.activate-now {
+			&::before {
+				content: '\f534';
+			}
+		}
+
+		.updating-message {
+			&::before {
+				color: #f56e28;
+				content: '\f463';
+				animation: rotation 2s infinite linear;
+			}
+		}
+	}
+
+	.plugin-actions {
+		.plugins-install,
+		.plugins-activate {
+			float: right;
+			transform: none;
+		}
+
+		.plugins-install {
+			margin-left: 8px;
+		}
+	}
+}
+
+/**
+ * Tooltips
+ */
+.tips {
+	cursor: help;
+	text-decoration: none;
+}
+
+img.tips {
+	padding: 5px 0 0;
+}
+
+#tiptip_holder {
+	display: none;
+	z-index: 8675309;
+	position: absolute;
+	top: 0;
+	/*rtl:ignore*/
+	left: 0;
+
+	&.tip_top {
+		padding-bottom: 5px;
+
+		#tiptip_arrow_inner {
+			margin-top: -7px;
+			margin-left: -6px;
+			border-top-color: #333;
+		}
+	}
+
+	&.tip_bottom {
+		padding-top: 5px;
+
+		#tiptip_arrow_inner {
+			margin-top: -5px;
+			margin-left: -6px;
+			border-bottom-color: #333;
+		}
+	}
+
+	&.tip_right {
+		padding-left: 5px;
+
+		#tiptip_arrow_inner {
+			margin-top: -6px;
+			margin-left: -5px;
+			border-right-color: #333;
+		}
+	}
+
+	&.tip_left {
+		padding-right: 5px;
+
+		#tiptip_arrow_inner {
+			margin-top: -6px;
+			margin-left: -7px;
+			border-left-color: #333;
+		}
+	}
+}
+
+#tiptip_content {
+	color: #fff;
+	font-size: 0.8em;
+	max-width: 150px;
+	background: #333;
+	text-align: center;
+	border-radius: 3px;
+	padding: 0.618em 1em;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+
+	code {
+		padding: 1px;
+		background: #888;
+	}
+}
+
+#tiptip_arrow,
+#tiptip_arrow_inner {
+	position: absolute;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 6px;
+	height: 0;
+	width: 0;
+}
+
+/*rtl:raw:
+#tiptip_arrow {
+	right: 50%;
+	margin-right: -6px;
+}
+*/
+
+/**
+ * Optimisation for screens 500px and smaller
+ */
+@media screen and (max-width: 500px) {
+	.appearance_page_demo-importer {
+		.demo-installer {
+			.welcome-panel {
+				.welcome-panel-content,
+				.welcome-panel-iframe-video {
+					float: none;
+					width: 100%;
+				}
+			}
+		}
+	}
+}
